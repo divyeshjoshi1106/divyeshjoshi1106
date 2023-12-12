@@ -1,10 +1,5 @@
 ### Hi there I'm Divyesh👋
 
-## Watch my contributions get eaten by a snake 🐍
-
-![snake gif](https://github.com/divyeshjoshi1106/divyeshjoshi1106/blob/output/github-contribution-grid-snake.gif)
-
-
 <!--
 **divyeshjoshi1106/divyeshjoshi1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
